@@ -1,4 +1,4 @@
-# mapbox_with_vue
+# mapbox-vue
 
 ## Project setup
 ```
